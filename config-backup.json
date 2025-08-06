@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-06T23:56:28.571Z",
+  "timestamp": "2025-08-06T23:56:41.401Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -88,7 +88,7 @@
     },
     "org.gnome.mutter": {
       "workspaces-only-on-primary": "true",
-      "overlay-key": "'Super_L'",
+      "overlay-key": "'Super'",
       "focus-change-on-pointer-rest": "true",
       "draggable-border-width": "10",
       "experimental-features": "@as []",

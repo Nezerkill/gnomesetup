@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-07T00:08:10.927Z",
+  "timestamp": "2025-08-07T00:10:54.440Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -79,7 +79,7 @@
       "disable-extension-version-validation": "false",
       "always-show-log-out": "false",
       "welcome-dialog-last-shown-version": "'48.3'",
-      "enabled-extensions": "['dash-to-dock@micxgx.gmail.com', 'quick-settings-audio-panel@rayzeq.github.io', 'Vitals@CoreCoding.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'boostvolume@shaquib.dev', 'volume_scroller@francislavoie.github.io', 'gamemodeshellextension@trsnaqe.com', 'rounded-window-corners@fxgn', 'weatheroclock@CleoMenezesJr.github.io', 'appindicatorsupport@rgcjonas.gmail.com', 'gsconnect@andyholmes.github.io', 'blur-my-shell@aunetx', 'proton-vpn@fthx', 'gnoming-profiles@gavindi.github.com', 'just-perfection-desktop@just-perfection', 'status-area-horizontal-spacing@mathematical.coffee.gmail.com', 'emoji-copy@felipeftn', 'arcmenu@arcmenu.com', 'widgets@aylur', 'clipboard-history@alexsaveau.dev']",
+      "enabled-extensions": "['dash-to-dock@micxgx.gmail.com', 'quick-settings-audio-panel@rayzeq.github.io', 'Vitals@CoreCoding.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'boostvolume@shaquib.dev', 'volume_scroller@francislavoie.github.io', 'gamemodeshellextension@trsnaqe.com', 'rounded-window-corners@fxgn', 'weatheroclock@CleoMenezesJr.github.io', 'appindicatorsupport@rgcjonas.gmail.com', 'gsconnect@andyholmes.github.io', 'blur-my-shell@aunetx', 'proton-vpn@fthx', 'gnoming-profiles@gavindi.github.com', 'just-perfection-desktop@just-perfection', 'status-area-horizontal-spacing@mathematical.coffee.gmail.com', 'emoji-copy@felipeftn', 'arcmenu@arcmenu.com', 'widgets@aylur', 'clipboard-history@alexsaveau.dev', 'tilingshell@ferrarodomenico.com']",
       "disabled-extensions": "['dash2dock-lite@icedman.github.com', 'openbar@neuromorph']",
       "allow-extension-installation": "true",
       "looking-glass-history": "@as []",
@@ -96,7 +96,7 @@
       "center-new-windows": "true",
       "auto-maximize": "true",
       "attach-modal-dialogs": "true",
-      "edge-tiling": "true",
+      "edge-tiling": "false",
       "locate-pointer-key": "'Control_L'",
       "check-alive-timeout": "uint32 5000",
       "output-luminance": "@a(ssssud) []"
@@ -137,7 +137,7 @@
       "maximize-vertically": "@as []",
       "move-to-corner-sw": "@as []",
       "move-to-workspace-9": "@as []",
-      "maximize": "['<Super>Up']",
+      "maximize": "@as []",
       "panel-main-menu": "@as []",
       "close": "['<Super>q']",
       "move-to-monitor-up": "['<Super><Shift>Up']",
@@ -149,7 +149,7 @@
       "switch-windows": "@as []",
       "panel-run-dialog": "['<Alt>F2']",
       "switch-panels-backward": "['<Shift><Control><Alt>Tab']",
-      "unmaximize": "['<Super>Down', '<Alt>F5']",
+      "unmaximize": "@as []",
       "switch-to-workspace-2": "@as []",
       "switch-applications": "['<Super>Tab', '<Alt>Tab']",
       "switch-to-workspace-last": "['<Super>End']",

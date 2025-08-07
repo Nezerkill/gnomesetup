@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-07T00:24:22.958Z",
+  "timestamp": "2025-08-07T00:28:55.708Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -196,13 +196,13 @@
     },
     "org.gnome.desktop.background": {
       "picture-options": "'zoom'",
-      "picture-uri-dark": "'file:///home/nezerkill/.local/share/gnoming-profiles/wallpapers/static-708123.png'",
+      "picture-uri-dark": "'file:///home/nezerkill/.local/share/backgrounds/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
       "show-desktop-icons": "false",
-      "picture-uri": "'file:///home/nezerkill/.local/share/gnoming-profiles/wallpapers/static-708123.png'",
+      "picture-uri": "'file:///home/nezerkill/.local/share/backgrounds/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
       "color-shading-type": "'solid'",
       "picture-opacity": "100",
-      "secondary-color": "'#5789ca'",
-      "primary-color": "'#023c88'"
+      "secondary-color": "'#000000000000'",
+      "primary-color": "'#000000000000'"
     },
     "org.gnome.desktop.screensaver": {
       "user-switch-enabled": "true",
@@ -212,16 +212,16 @@
       "status-message-enabled": "true",
       "show-full-name-in-top-bar": "true",
       "logout-command": "''",
-      "picture-uri": "'file:///usr/share/backgrounds/gnome/adwaita-timed.xml'",
+      "picture-uri": "'file:///home/nezerkill/.local/share/backgrounds/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
       "idle-activation-enabled": "true",
       "lock-enabled": "true",
       "logout-enabled": "false",
-      "primary-color": "'#023c88'",
+      "primary-color": "'#000000000000'",
       "logout-delay": "uint32 7200",
       "picture-opacity": "100",
       "picture-options": "'zoom'",
       "lock-delay": "uint32 0",
-      "secondary-color": "'#5789ca'"
+      "secondary-color": "'#000000000000'"
     }
   }
 }

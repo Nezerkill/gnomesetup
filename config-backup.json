@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-07T00:46:29.927Z",
+  "timestamp": "2025-08-07T00:47:06.041Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -9,7 +9,7 @@
       "menubar-accel": "'F10'",
       "cursor-blink": "true",
       "clock-show-weekday": "false",
-      "icon-theme": "'Yaru-purple-dark'",
+      "icon-theme": "'Yaru-magenta-dark'",
       "gtk-im-preedit-style": "'callback'",
       "accent-color": "'purple'",
       "menus-have-tearoff": "false",
@@ -18,7 +18,7 @@
       "text-scaling-factor": "1.0",
       "gtk-color-scheme": "''",
       "gtk-timeout-initial": "200",
-      "gtk-theme": "'Yaru-purple-dark'",
+      "gtk-theme": "'Yaru-magenta-dark'",
       "clock-show-seconds": "false",
       "scaling-factor": "uint32 0",
       "clock-show-date": "true",

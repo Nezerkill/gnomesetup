@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-07T00:00:23.379Z",
+  "timestamp": "2025-08-07T00:02:37.243Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -161,8 +161,8 @@
       "show-desktop": "['<Super>d']",
       "move-to-center": "@as []",
       "move-to-workspace-2": "@as []",
-      "switch-to-workspace-left": "['<Super>Page_Up', '<Super><Alt>Left', '<Control><Alt>Left']",
-      "switch-to-workspace-right": "['<Super>Page_Down', '<Super><Alt>Right', '<Control><Alt>Right']",
+      "switch-to-workspace-left": "['<Control><Super>Left']",
+      "switch-to-workspace-right": "['<Control><Super>Right']",
       "raise": "@as []",
       "move-to-corner-se": "@as []",
       "switch-to-workspace-10": "@as []",

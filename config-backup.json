@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-09T17:19:10.303Z",
+  "timestamp": "2025-08-09T17:20:06.653Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -9,7 +9,7 @@
       "menubar-accel": "'F10'",
       "cursor-blink": "true",
       "clock-show-weekday": "false",
-      "icon-theme": "'Yaru-magenta-dark'",
+      "icon-theme": "'Adwaita'",
       "gtk-im-preedit-style": "'callback'",
       "accent-color": "'pink'",
       "menus-have-tearoff": "false",

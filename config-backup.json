@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-18T08:48:10.130Z",
+  "timestamp": "2025-08-18T08:48:18.298Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -79,8 +79,8 @@
       "disable-extension-version-validation": "false",
       "always-show-log-out": "false",
       "welcome-dialog-last-shown-version": "'48.3'",
-      "enabled-extensions": "['quick-settings-audio-panel@rayzeq.github.io', 'Vitals@CoreCoding.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'boostvolume@shaquib.dev', 'volume_scroller@francislavoie.github.io', 'gamemodeshellextension@trsnaqe.com', 'rounded-window-corners@fxgn', 'weatheroclock@CleoMenezesJr.github.io', 'appindicatorsupport@rgcjonas.gmail.com', 'gsconnect@andyholmes.github.io', 'blur-my-shell@aunetx', 'proton-vpn@fthx', 'gnoming-profiles@gavindi.github.com', 'just-perfection-desktop@just-perfection', 'status-area-horizontal-spacing@mathematical.coffee.gmail.com', 'emoji-copy@felipeftn', 'arcmenu@arcmenu.com', 'widgets@aylur', 'clipboard-history@alexsaveau.dev', 'tilingshell@ferrarodomenico.com', 'middleclickclose@paolo.tranquilli.gmail.com', 'gnome-compact-top-bar@metehan-arslan.github.io', 'mediacontrols@cliffniff.github.com', 'dash-to-dock@micxgx.gmail.com', 'openbar@neuromorph', 'color-picker@tuberry']",
-      "disabled-extensions": "['dash2dock-lite@icedman.github.com']",
+      "enabled-extensions": "['quick-settings-audio-panel@rayzeq.github.io', 'Vitals@CoreCoding.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'boostvolume@shaquib.dev', 'volume_scroller@francislavoie.github.io', 'gamemodeshellextension@trsnaqe.com', 'rounded-window-corners@fxgn', 'weatheroclock@CleoMenezesJr.github.io', 'appindicatorsupport@rgcjonas.gmail.com', 'gsconnect@andyholmes.github.io', 'blur-my-shell@aunetx', 'proton-vpn@fthx', 'gnoming-profiles@gavindi.github.com', 'just-perfection-desktop@just-perfection', 'status-area-horizontal-spacing@mathematical.coffee.gmail.com', 'emoji-copy@felipeftn', 'arcmenu@arcmenu.com', 'widgets@aylur', 'clipboard-history@alexsaveau.dev', 'tilingshell@ferrarodomenico.com', 'middleclickclose@paolo.tranquilli.gmail.com', 'gnome-compact-top-bar@metehan-arslan.github.io', 'mediacontrols@cliffniff.github.com', 'dash-to-dock@micxgx.gmail.com', 'color-picker@tuberry']",
+      "disabled-extensions": "['dash2dock-lite@icedman.github.com', 'openbar@neuromorph']",
       "allow-extension-installation": "true",
       "looking-glass-history": "@as []",
       "development-tools": "true",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-22T09:36:19.167Z",
+  "timestamp": "2025-08-22T09:46:30.686Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -73,7 +73,7 @@
     "org.gnome.shell": {
       "last-selected-power-profile": "'power-saver'",
       "app-picker-layout": "[{'org.gnome.Geary.desktop': <{'position': <0>}>, 'org.gnome.Contacts.desktop': <{'position': <1>}>, 'org.gnome.Weather.desktop': <{'position': <2>}>, 'org.gnome.clocks.desktop': <{'position': <3>}>, 'org.gnome.Maps.desktop': <{'position': <4>}>, 'org.gnome.Music.desktop': <{'position': <5>}>, 'simple-scan.desktop': <{'position': <6>}>, 'org.gnome.Settings.desktop': <{'position': <7>}>, 'org.gnome.Boxes.desktop': <{'position': <8>}>, 'org.gnome.Totem.desktop': <{'position': <9>}>, 'org.gnome.Snapshot.desktop': <{'position': <10>}>, 'org.gnome.Characters.desktop': <{'position': <11>}>, 'Utilities': <{'position': <12>}>, 'System': <{'position': <13>}>, 'org.gnome.Console.desktop': <{'position': <14>}>, 'org.gnome.Tour.desktop': <{'position': <15>}>, 'yelp.desktop': <{'position': <16>}>}]",
-      "command-history": "@as []",
+      "command-history": "['r']",
       "disable-user-extensions": "false",
       "remember-mount-password": "false",
       "disable-extension-version-validation": "false",

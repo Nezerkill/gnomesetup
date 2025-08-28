@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-28T12:31:20.965Z",
+  "timestamp": "2025-08-28T17:59:33.541Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -84,7 +84,7 @@
       "allow-extension-installation": "true",
       "looking-glass-history": "@as []",
       "development-tools": "true",
-      "favorite-apps": "['org.gnome.Nautilus.desktop', 'firefox.desktop', 'app.drey.PaperPlane.desktop', 'org.telegram.desktop.desktop', 'vesktop.desktop', 'md.obsidian.Obsidian.desktop', 'code-oss.desktop', 'org.gnome.TextEditor.desktop']"
+      "favorite-apps": "['org.gnome.Nautilus.desktop', 'firefox.desktop', 'app.drey.PaperPlane.desktop', 'org.telegram.desktop.desktop', 'vesktop.desktop', 'md.obsidian.Obsidian.desktop', 'code-oss.desktop', 'org.gnome.TextEditor.desktop', 'com.spotify.Client.desktop']"
     },
     "org.gnome.mutter": {
       "workspaces-only-on-primary": "true",

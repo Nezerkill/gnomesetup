@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-29T20:16:10.889Z",
+  "timestamp": "2025-08-29T23:50:58.943Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -196,9 +196,9 @@
     },
     "org.gnome.desktop.background": {
       "picture-options": "'zoom'",
-      "picture-uri-dark": "'file:///home/nezerkill/.local/share/backgrounds/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
+      "picture-uri-dark": "'file:///home/nezerkill/.local/share/gnoming-profiles/wallpapers/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
       "show-desktop-icons": "false",
-      "picture-uri": "'file:///home/nezerkill/.local/share/backgrounds/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
+      "picture-uri": "'file:///home/nezerkill/.local/share/gnoming-profiles/wallpapers/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
       "color-shading-type": "'solid'",
       "picture-opacity": "100",
       "secondary-color": "'#000000000000'",
@@ -212,7 +212,7 @@
       "status-message-enabled": "true",
       "show-full-name-in-top-bar": "true",
       "logout-command": "''",
-      "picture-uri": "'file:///home/nezerkill/.local/share/backgrounds/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
+      "picture-uri": "'file:///home/nezerkill/.local/share/gnoming-profiles/wallpapers/2025-08-07-03-28-04-Les-jours-d-apr-s.png'",
       "idle-activation-enabled": "true",
       "lock-enabled": "true",
       "logout-enabled": "false",
